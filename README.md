@@ -25,6 +25,11 @@
 ## The Wizard
 
 A top down shooter by Group A
+- Jordan Tobin
+- Mark Lucernas
+- Tamer Elsawaf
+- Seth Steen-Fuentes
+- Jennifer Nguyen
 
 ![Level 1 demo](./demo/level1_demo.png)
 ![Level 2 demo](./demo/level2_demo.png)
